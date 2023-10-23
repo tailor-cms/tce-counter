@@ -1,6 +1,5 @@
 {
   "name": "@tailor-cms/tce-counter-edit",
-  "private": true,
   "type": "module",
   "version": "0.0.1",
   "exports": {
