@@ -1,5 +1,5 @@
 {
-  "name": "tce-server",
+  "name": "@tailor-cms/tce-counter-server",
   "description": "Content element server module",
   "author": "ExtensionEngine <info@extensionengine.com>",
   "type": "module",

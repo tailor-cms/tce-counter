@@ -1,5 +1,5 @@
 {
-  "name": "tce-display",
+  "name": "@tailor-cms/tce-counter-display",
   "private": true,
   "type": "module",
   "version": "0.0.1",
